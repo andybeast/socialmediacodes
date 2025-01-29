@@ -341,8 +341,3 @@ if __name__ == "__main__":
             # Avoid API quota overload with random short delay
             time.sleep(random.randint(60, 180))
 
-
-# ADD system that goes from channel to channel with large time intervals between each channel,
-
-### NATURE CHANNEL 
-# UCY07vJBdSsOKvyV9so-ByYA
